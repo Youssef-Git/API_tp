@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titre": "La vie devant soi",
+        "auteur": "Romain Gary",
+        "prix": 19.99,
+        "description": "Madame Rosa est une ancienne prostituée qui a connu Auschwitz. Aujourd'hui, elle gère une pension pour les enfants dont les mères ne peuvent pas s'occuper, comme Momo, un môme d'une dizaine d'années qui aime Madame Rosa plus que tout."
+    },
+    {
+        "id": 2,
+        "titre": "Le Portrait de Dorian Gray",
+        "auteur": "Oscar Wilde",
+        "prix": 12.99,
+        "description": "Dorian Gray a fait le vœu de ne jamais vieillir et celui-ci se réalise miraculeusement chaque jour. Le jeune dandy profite de la chance qui lui est donnée pour jouir de tous les plaisirs de la vie, alors que seul son portrait semble porter les stigmates du temps qui passe."
+    },
+    {
+        "id": 3,
+        "titre": "L'étranger",
+        "auteur": "Albert Camus",
+        "prix": 9.99,
+        "description": "Le premier roman d'Albert Camus met en scène Meursault, un condamné à mort. Sur une plage, il a tué une personne « parce qu'il faisait chaud »."
+    }
+]
